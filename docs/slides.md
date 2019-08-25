@@ -61,3 +61,19 @@ Activate presentation mode by pressing 's'.
 Presentation mode only works when your slides are viewed on a
 webserver. reveal-ck comes with one if you need it.
 ```
+
+---
+
+```java
+public class HelloWorld {
+  public static void main(String[] args) {
+      System.out.println("Hello World!");
+  }
+}
+```
+
+---
+
+## Image images/sample.jpg
+
+![image](images/sample.jpg)

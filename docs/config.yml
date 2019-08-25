@@ -3,4 +3,4 @@ transition: "page"
 title: "My Presentation!"
 revealjs_config:
   autoSlide: 5000
-  loop: true
+  loop: false
